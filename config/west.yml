@@ -9,7 +9,8 @@ manifest:
     - name: gpeye
       url-base: https://github.com/GPeye
   projects:
-    - name: mario-peripheral-animation
+#    - name: mario-peripheral-animation
+     - name: urchin-peripheral-animation
       remote: gpeye
       revision: main 
     - name: zmk
