@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - {t: \, s: '|'}
-  - FNKP
+  - {t: FNKP, h: toggle}
   - A
   - S
   - D
@@ -92,7 +92,7 @@ layers:
   - KP 9
   - KP MINUS
   - F12
-  - {t: BASE, h: toggle, type: held}
+  - {t: BASE, h: toggle}
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
